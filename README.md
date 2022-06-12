@@ -11,8 +11,8 @@ npm i animista-css-generator
 
 ```jsx
 import React from "react";
-import animated from "animate-css-generator/animations/animated";
-import scaleUpCenter from "animate-css-generator/animations/scale-up-center";
+import animated from "animista-css-generator/animations/animated";
+import scaleUpCenter from "animista-css-generator/animations/scale-up-center";
 
 function App() {
   return (
